@@ -4,7 +4,7 @@
 
 **Código:**  A00316212
 
-**Github URL:** https://github.com/Jhongomez6/so-workshop2/edit/A00316212/add-solutions/
+**Github URL:** https://github.com/Jhongomez6/so-workshop2/tree/A00316212/add-solutions
 
 ## Descripción
 
