@@ -1,12 +1,12 @@
 # Taller 2
 
-**Nombre:** student_name  
-**Código:** student_id  
-**Github URL:** github_fork_url
+**Nombre:** Jhon Eduar Tobar Gómez
+**Código:** A00316212
+**Github URL:** https://github.com/Jhongomez6/so-workshop2/edit/A00316212/add-solutions/
 
 ## Descripción
 
-Corta descripción de lo realizado en el taller
+En este taller tratamos brevemenete diferentes hechos historicos relevantes de los sistemas operativos, que han permitido llegar a las tecnologías bastante desarrolladas con las que contamos hoy en día.
 
 ## Referencias
 
